@@ -1,0 +1,20 @@
+clear
+c
+ls
+cd ..
+clear
+ll
+ls
+ls -l
+ls -la
+cd ..
+clear
+alias c='clear'
+clear
+cd ..
+ls
+c
+
+clear
+exit
+quit
